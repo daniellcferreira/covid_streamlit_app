@@ -1,0 +1,46 @@
+# Evita subir arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Evita arquivos de ambiente virtual
+.venv/
+env/
+venv/
+
+# Evita arquivos do Streamlit
+.streamlit/config.toml
+
+# Evita arquivos temporários de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Evita arquivos de log
+*.log
+
+# Evita arquivos de IDEs (VSCode, PyCharm, etc)
+.vscode/
+.idea/
+# Evita subir arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Evita arquivos de ambiente virtual
+.venv/
+env/
+venv/
+
+# Evita arquivos do Streamlit
+.streamlit/config.toml
+
+# Evita arquivos temporários de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Evita arquivos de log
+*.log
+
+# Evita arquivos de IDEs (VSCode, PyCharm, etc)
+.vscode/
+.idea/
